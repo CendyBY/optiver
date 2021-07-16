@@ -71,8 +71,11 @@ instance/
 # Sphinx documentation
 docs/_build/
 
+
 # PyBuilder
 target/
+
+input/
 
 # Jupyter Notebook
 .ipynb_checkpoints
@@ -127,3 +130,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+*.zip
